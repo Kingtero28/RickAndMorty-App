@@ -1,0 +1,30 @@
+.App {
+    max-width: 1615px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 40px;
+}
+.headBoard {
+    width: 100%;
+}
+.card__title {
+    text-align: center;
+    padding: 30px;
+}
+.card__submit, .card__input {
+    text-align: center;
+}
+.card__btn {
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+.card-container {
+    max-width: 1075px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    flex-wrap: wrap;
+}

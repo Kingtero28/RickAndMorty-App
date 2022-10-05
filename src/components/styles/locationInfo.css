@@ -1,0 +1,18 @@
+.card__location {
+    padding: 40px;
+}
+.card__location-name {
+    text-align: center;
+}
+.card__data {
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 30px;
+}
+.card__span {
+    font-weight: bolder;
+    color: white;
+}
+.card_list {
+    color: #b3b1b1;
+}

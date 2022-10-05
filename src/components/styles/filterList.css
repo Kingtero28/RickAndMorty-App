@@ -1,0 +1,12 @@
+.card__filter {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #073138;
+    width: 50%;
+}
+.card__list {
+    cursor: pointer;
+    padding: 5px;
+    color: rgb(44, 176, 176);
+}
